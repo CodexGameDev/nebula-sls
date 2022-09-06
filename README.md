@@ -16,7 +16,7 @@
   <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <a href="https://www.kaggle.com/ajaykhalsa">
-  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://i.imgur.com/CXTyoNG.gif" />
 </a>
 <br />
 <img align="right" alt="GIF" src="https://imgur.com/gallery/CXTyoNG" />
