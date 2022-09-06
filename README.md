@@ -15,11 +15,9 @@
 <a href="https://www.hackerrank.com/ajaykhalsa_ak">
   <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://www.kaggle.com/ajaykhalsa">
-  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://i.imgur.com/CXTyoNG.gif" />
-</a>
+
 <br />
-<img align="right" alt="GIF" src="https://imgur.com/gallery/CXTyoNG" />
+<img align="right" alt="GIF" src="https://i.imgur.com/CXTyoNG.gif" />
 
 ### I am Andrew
 - Studying Cybersecurity at Madison College
