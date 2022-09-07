@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://play.google.com/store/apps/dev?id=6458464589907808389&hl=en_US&gl=US">
-  <img align="left" alt="Andrew's Google Play Account" width="42px" src="https://raw.githubusercontent.com/nebula-sls/GithubProfileImages/main/Google-Play-Logo-2015-2016.png" />
+  <img align="left" alt="Andrew's Google Play Account" width="42px" src="https://raw.githubusercontent.com/nebula-sls/GithubProfileImages/main/F49R5U9C_400x400.png" />
 </a>
 
 
