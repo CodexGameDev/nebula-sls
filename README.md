@@ -10,8 +10,9 @@
 <a href="https://github.com/nebula-sls?tab=repositories">
   <img align="left" alt="Andrew's GitHub" width="22px" src="https://raw.githubusercontent.com/nebula-sls/GithubProfileImages/main/GitHub-Mark.png" />
 </a>                                                                                                    
-                     
-###                                                                              I am Andrew
+              
+<div />          
+### I am Andrew
 - Studying Cybersecurity at Madison College
 - Work as a software developer using OutSystems
 - In my free time I make Android apps
