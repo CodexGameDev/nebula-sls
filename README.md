@@ -20,7 +20,7 @@
 - Work as a software developer using OutSystems
 - In my free time I make Android apps
 
-## To get in touch, contact me by clicking the Linkedin logo above and send me a message!
+#### To get in touch, contact me by clicking the Linkedin logo above and send me a message!
 
 
 
