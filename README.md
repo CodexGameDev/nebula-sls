@@ -27,6 +27,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nebula-sls&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebula-sls&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=#00021&langs_count=3&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebula-sls&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=#000000&langs_count=3&" />
 
 
