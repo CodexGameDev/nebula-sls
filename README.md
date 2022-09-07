@@ -28,7 +28,7 @@
 
 #### To get in touch click the Linkedin logo above and send me a message!
 Make sure to check out my google play developer account! 
-<a href="https://play.google.com/store/apps/dev?id=6458464589907808389&hl=en_US&gl=US" src="https://play.google.com/store/apps/dev?id=6458464589907808389&hl=en_US&gl=US">
+<a href="Dev Account" src="https://play.google.com/store/apps/dev?id=6458464589907808389&hl=en_US&gl=US">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nebula-sls&theme=tokyonight)](https://git.io/streak-stats)
 
