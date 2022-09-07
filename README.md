@@ -28,7 +28,7 @@
 
 #### To get in touch click the Linkedin logo above and send me a message!
 Check out my android apps here!
-<a href="https://play.google.com/store/apps/dev?id=6458464589907808389&hl=en_US&gl=US">nebula-sls playstore</a>
+<a href="https://play.google.com/store/apps/dev?id=6458464589907808389&hl=en_US&gl=US">Play Store</a>
 
 
 
