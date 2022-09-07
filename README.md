@@ -24,5 +24,5 @@
 
 #### To get in touch click the Linkedin logo above and send me a message!
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nebula-sls)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nebula-sls&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=nebula-sls&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
