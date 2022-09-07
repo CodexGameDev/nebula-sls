@@ -12,10 +12,7 @@
 </a>
 
 
-<br />
-<img align="right" alt="GIF" src="[https://i.imgur.com/s64CzjZ.png](https://raw.githubusercontent.com/nebula-sls/GithubProfileImages/main/kotlin-1-logo-png-transparent.png
-)"       width="200" 
-     height="250"/>
+
 
 ### I am Andrew
 - Studying Cybersecurity at Madison College
