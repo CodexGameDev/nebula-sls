@@ -24,10 +24,9 @@
 
 #### To get in touch click the Linkedin logo above and send me a message!
    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebula-sls&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-
+                                                  
  <div align=center>
     <a href="https://github.com/nebula-sls/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nebula-sls&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
 
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=nebula-sls&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
