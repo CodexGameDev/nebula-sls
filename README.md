@@ -25,7 +25,7 @@
 #### To get in touch click the Linkedin logo above and send me a message!
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nebula-sls&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nebula-sls&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 <a href="https://github.com/nebula-sls/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebula-sls&layout=compact&theme=dark" /></a>
 
