@@ -17,7 +17,8 @@
 </a>
 
 <br />
-<img align="right" alt="GIF" src="https://i.imgur.com/s64CzjZ.png" />
+<img align="right" alt="GIF" src="https://i.imgur.com/s64CzjZ.png"       width="400" 
+     height="500"/>
 
 ### I am Andrew
 - Studying Cybersecurity at Madison College
