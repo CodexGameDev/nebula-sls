@@ -25,4 +25,4 @@
 #### To get in touch click the Linkedin logo above and send me a message!
 
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebula-sls&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nebula-sls)](https://git.io/streak-stats)
