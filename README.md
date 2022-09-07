@@ -23,8 +23,7 @@
 - In my free time I make Android apps
 
 #### To get in touch click the Linkedin logo above and send me a message!
-
-<img align="left" width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=nebula-sls&theme=tokyonight)](https://git.io/streak-stats"/>
+<img https://github-readme-streak-stats.herokuapp.com?user=nebula-sls&theme=tokyonight)](https://git.io/streak-stats />
 
 <a href="https://github.com/nebula-sls/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebula-sls&layout=compact&theme=tokyonight" /></a>
 
