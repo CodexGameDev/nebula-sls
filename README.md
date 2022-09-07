@@ -27,10 +27,8 @@
 - In my free time I make Android apps
 
 #### To get in touch click the Linkedin logo above and send me a message!
-Make sure to check out my google play developer account! 
 
-
-<a href="https://play.google.com/store/apps/dev?id=6458464589907808389&hl=en_US&gl=US">link text</a>
+<a href="https://play.google.com/store/apps/dev?id=6458464589907808389&hl=en_US&gl=US">Check out my android apps here!</a>
 
 
 
