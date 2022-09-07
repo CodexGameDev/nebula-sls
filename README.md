@@ -1,6 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-
+## Hello World! 
 <a href="https://www.linkedin.com/in/andrew-laack-238b84240/">
   <img align="left" alt="Andrew's Linkdein" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480" />
 </a>
