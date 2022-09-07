@@ -27,6 +27,9 @@
 - In my free time I make Android apps
 
 #### To get in touch click the Linkedin logo above and send me a message!
+Make sure to check out my google play developer account! 
+<a href="https://play.google.com/store/apps/dev?id=6458464589907808389&hl=en_US&gl=US" src="https://play.google.com/store/apps/dev?id=6458464589907808389&hl=en_US&gl=US">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nebula-sls&theme=tokyonight)](https://git.io/streak-stats)
 
 <a href="https://github.com/nebula-sls/github-readme-stats"><img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebula-sls&layout=compact&theme=tokyonight" /></a>
