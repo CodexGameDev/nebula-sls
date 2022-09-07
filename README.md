@@ -25,4 +25,6 @@
 #### To get in touch click the Linkedin logo above and send me a message!
 
 
-<a href="https://github.com/nebula-sls/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nebula-sls&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Andrew's github stats" /></a> 
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
