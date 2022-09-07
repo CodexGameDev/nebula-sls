@@ -23,4 +23,4 @@
 - In my free time I make Android apps
 
 #### To get in touch click the Linkedin logo above and send me a message!
-  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=nebula-sls&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
