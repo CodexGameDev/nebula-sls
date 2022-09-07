@@ -12,9 +12,9 @@
 </a>                                                                                                    
 
 
-
+                                                                                                                                                                                                                                                                                                                                                                        
                                               
-                                                                                       ### I am Andrew
+### I am Andrew
 - Studying Cybersecurity at Madison College
 - Work as a software developer using OutSystems
 - In my free time I make Android apps
