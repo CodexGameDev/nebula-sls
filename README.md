@@ -33,8 +33,6 @@ Check out my android apps here!
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nebula-sls&theme=tokyonight)](https://git.io/streak-stats)
-
 <a href="https://github.com/nebula-sls/github-readme-stats"><img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebula-sls&layout=compact&theme=tokyonight" /></a>
 
 
