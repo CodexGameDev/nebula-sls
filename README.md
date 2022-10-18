@@ -24,7 +24,7 @@
 ### I am Andrew
 - Studying Cybersecurity at Madison College
 - Work as a software developer using OutSystems
-- In my free time I make Android apps
+- In my free time I make Mobile Games and Apps
 
 #### To get in touch click the Linkedin logo above and send me a message!
 Check out my android apps here!
